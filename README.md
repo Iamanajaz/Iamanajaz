@@ -2,8 +2,12 @@
    
 ## 🌐 Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/Iamanajaz) 
-[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://codepen.io/Iamanajaz) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/iamanajaz)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/iamanajaz/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Iamanajaz)
+[![CodeChef](https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff)](https://www.codechef.com/users/iamanajaz)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/iamanajaz/) 
+[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://codepen.io/Iamanajaz) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/iamanajaz)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://www.github.com/iamanajaz)
+<!-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Iamanajaz) -->
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Iamanajaz) -->
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderXgaming) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Iamanajaz) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Iamanajaz) 
